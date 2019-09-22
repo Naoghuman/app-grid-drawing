@@ -1,0 +1,44 @@
+--------------------------------------------------------------------------------
+CONCEPT <Basic ideas>
+--------------------------------------------------------------------------------
+DESCRIPTION
+In this concept I want to descripe the basic ideas from the application 'app-grid-drawing'.
+
+The application allowed the user to create and configure images which can then 
+be drawn with the grid drawing method.
+
+--------------------------------------------------------------------------------
+GUI
+The main sections from the gui is very simple.
+
+Menu
+ - Shortcuts on the right side. Shows only images.
+
+Palette
+ - Contains all elements which can be used per drag and drop.
+   For example image, clip, grid...
+
+Project
+ - Contains the elements from the Palette which have the user choosen for the 
+   drawing.
+
+Details
+ - Shows details and/or configuration components depending from the source.
+ - If an element from the Palette is selected, then the description for the 
+   component will be shown.
+ - If an element form the Project is selected, then the description and configuration 
+   components for the element will be shown.
+
+--------------------------------------------------------------------------------
+CRUD
+Planed is the useage from GraphQL for the CRUD operations from a Project.
+
+--------------------------------------------------------------------------------
+
+
+
+
+
+
+
+

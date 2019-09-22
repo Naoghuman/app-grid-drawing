@@ -28,6 +28,7 @@ TODO
 
 
 #### Documentation
+#2 [doc] Write a new concept 'Basic_idea' for the application.
 
 
 
