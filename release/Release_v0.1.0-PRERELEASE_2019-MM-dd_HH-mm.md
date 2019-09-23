@@ -15,6 +15,7 @@ TODO
 
 
 #### Feature
+#3 [api] Implement a prototype to import images into the application.
 #1 [app] Create a basic project structure.
 
 
@@ -50,6 +51,7 @@ Naoghuman
 
 
 [//]: # (Links)
+#6 [gui] Implement the main sections from the gui. // feature
 
 
 
