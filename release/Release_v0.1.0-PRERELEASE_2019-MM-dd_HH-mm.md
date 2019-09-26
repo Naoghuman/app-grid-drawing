@@ -15,6 +15,7 @@ TODO
 
 
 #### Feature
+#10 [api] Implement a prototype for selection master-detail views.
 #9 [api] Implement a prototype to render a default image.
 #8 [api] Implement functionality to import an image.
 #7 [api] Implement a prototype to scale an image in a ScrollPane.
