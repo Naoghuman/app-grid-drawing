@@ -15,6 +15,7 @@ TODO
 
 
 #### Feature
+#9 [api] Implement a prototype to render a default image.
 #8 [api] Implement functionality to import an image.
 #7 [api] Implement a prototype to scale an image in a ScrollPane.
 #6 [gui] Implement the main sections from the gui.
