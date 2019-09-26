@@ -20,7 +20,12 @@ import com.github.naoghuman.lib.action.core.Registerable;
 import com.github.naoghuman.lib.logger.core.LoggerFacade;
 import java.net.URL;
 import java.util.ResourceBundle;
+import javafx.fxml.FXML;
 import javafx.fxml.Initializable;
+import javafx.scene.control.ListView;
+import javafx.scene.control.TreeView;
+import javafx.scene.layout.HBox;
+import javafx.scene.layout.VBox;
 
 /**
  * 
@@ -29,6 +34,14 @@ import javafx.fxml.Initializable;
  * @author  Naoghuman
  */
 public final class ApplicationPresenter implements Initializable, Registerable {
+    
+    @FXML private HBox hbDesktopArea;
+    @FXML private ListView lvPalette;
+    @FXML private TreeView tvProject;
+    @FXML private VBox vbDetails;
+    @FXML private VBox vbPalette;
+    @FXML private VBox vbProject;
+    @FXML private VBox vbShortcuts;
 
     @Override
     public void initialize(URL location, ResourceBundle resources) {
