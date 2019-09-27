@@ -35,6 +35,7 @@ TODO
 
 #### Documentation
 #5 [doc] Write new concept 'Features' for the application.
+#4 [doc] Create new concept 'Conventions' for the project.
 #2 [doc] Write a new concept 'Basic_idea' for the application.
 
 

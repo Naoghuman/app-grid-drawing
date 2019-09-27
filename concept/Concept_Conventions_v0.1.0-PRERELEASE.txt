@@ -1,0 +1,21 @@
+--------------------------------------------------------------------------------
+CONCEPT <Conventions>
+--------------------------------------------------------------------------------
+DESCRIPTION
+This concept descrips the 'conventions' from the application 'app-Grid-Drawing'.
+
+--------------------------------------------------------------------------------
+CONVENTIONS
+ - The imported images should be saved into following folder:
+    - /application/resources/images
+    - with alloweds formats: .gif; .png; .jpg; .jpeg
+
+--------------------------------------------------------------------------------
+
+
+
+
+
+
+
+
