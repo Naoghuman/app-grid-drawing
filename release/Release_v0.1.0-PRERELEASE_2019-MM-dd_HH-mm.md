@@ -15,6 +15,7 @@ TODO
 
 
 #### Feature
+#13 [app] Implement a prototype for a ProgressLayer.
 #10 [api] Implement a prototype for selection master-detail views.
 #9 [api] Implement a prototype to render a default image.
 #8 [api] Implement functionality to import an image.
