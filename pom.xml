@@ -185,6 +185,12 @@
             <version>1.10.19</version>
             <scope>test</scope>
         </dependency>
+        <dependency>
+            <groupId>org.controlsfx</groupId>
+            <artifactId>controlsfx</artifactId>
+            <version>8.40.15</version>
+            <scope>test</scope>
+        </dependency>
     </dependencies>
     
     
